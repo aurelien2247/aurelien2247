@@ -8,19 +8,14 @@
 
 ---
 
-<div align="center">
-
-## 👨‍💻 Who Am I?
+<h2 align="center">👨‍💻 Who Am I?</h2>
 
 - 🎓 Student at [**IMT Atlantique**](https://www.imt-atlantique.fr)  
 - 🧠 Building a **Retrieval-Augmented Generation (RAG)** system for **legacy COBOL** development  
 - 💼 Apprentice at **Direction Générale des Finances Publiques (DGFIP)**  
 - 📬 Reach out: [aurelien.moignet@imt-atlantique.net](mailto:aurelien.moignet@imt-atlantique.net)
-</div>
 
 ---
-
-## 🚀 Tech Stack
 
 ### 💻 Languages
 <p align="center">
@@ -39,15 +34,11 @@
 
 ---
 
-<div align="center">
-
 ## 📂 Featured Project
 
-🔗 <strong>[IMTVENTAIRE](#)</strong>  
+### 🔗 [IMTVENTAIRE](#)
 A full-stack team project to help IMT technicians scan and manage inventory via barcode.  
-🔧 Built with: <code>AdonisJS</code>, <code>React</code>, <code>Postgres</code>
-
-</div>
+🔧 Built with: `AdonisJS`, `React`, `Postgres`
 
 ---
 
