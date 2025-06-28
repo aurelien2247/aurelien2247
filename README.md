@@ -12,10 +12,10 @@
 
 ## 👨‍💻 Who Am I?
 </div>
-🎓 Student at [**IMT Atlantique**](https://www.imt-atlantique.fr)  
-🧠 Building a **Retrieval-Augmented Generation (RAG)** system for **legacy COBOL** development  
-💼 Apprentice at **Direction Générale des Finances Publiques (DGFIP)**  
-📬 Reach out: [aurelien.moignet@imt-atlantique.net](mailto:aurelien.moignet@imt-atlantique.net)
+- 🎓 Student at [**IMT Atlantique**](https://www.imt-atlantique.fr)  
+- 🧠 Building a **Retrieval-Augmented Generation (RAG)** system for **legacy COBOL** development  
+- 💼 Apprentice at **Direction Générale des Finances Publiques (DGFIP)**  
+- 📬 Reach out: [aurelien.moignet@imt-atlantique.net](mailto:aurelien.moignet@imt-atlantique.net)
 
 
 
