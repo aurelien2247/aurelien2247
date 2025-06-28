@@ -24,7 +24,8 @@
 
 <h2 align="center">⚙️ Frameworks & Libraries</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,angular,qt,spring,adonis,junit" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,angular,qt,spring,adonis" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Junit5-logo.png" alt="JUnit" width="40" />
 </p>
 
 
