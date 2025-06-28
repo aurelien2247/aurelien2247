@@ -22,9 +22,10 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,java,cpp,c" />
 </p>
 
-<p align="center">
-### ⚙️ Frameworks & Libraries
 
+### ⚙️ Frameworks & Libraries
+<p align="center">
+  <h2 align="center">⚙️ Frameworks & Libraries</h2>
   <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,angular,qt,adonisjs" />
 </p>
 
