@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=600&height=60&lines=👋+Hi+!+I'm+Aurélien+Moignet;I'+m+passionate+on+Software+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=600&height=60&lines=👋+Hi+!+I'm+Aurélien+Moignet;I'm+passionate+on+Software+💻" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,12 +8,16 @@
 
 ---
 
+<div align="center">
+
 ## 👨‍💻 Who Am I?
 
-- 🎓 Student at [**IMT Atlantique**](https://www.imt-atlantique.fr)
-- 🧠 Building a **Retrieval-Augmented Generation (RAG)** system for **legacy COBOL** development
-- 💼 Apprentice @ **Direction Générale des Finances Publiques (DGFIP)**
-- 📬 Reach out: [aurelien.moignet@imt-atlantique.net](mailto:aurelien.moignet@imt-atlantique.net)
+🎓 Student at [**IMT Atlantique**](https://www.imt-atlantique.fr)  
+🧠 Building a **Retrieval-Augmented Generation (RAG)** system for **legacy COBOL** development  
+💼 Apprentice at **Direction Générale des Finances Publiques (DGFIP)**  
+📬 Reach out: [aurelien.moignet@imt-atlantique.net](mailto:aurelien.moignet@imt-atlantique.net)
+
+</div>
 
 ---
 
@@ -36,11 +40,15 @@
 
 ---
 
+<div align="center">
+
 ## 📂 Featured Project
 
-### 🔗 [IMTVENTAIRE](#)
+🔗 <strong>[IMTVENTAIRE](#)</strong>  
 A full-stack team project to help IMT technicians scan and manage inventory via barcode.  
-🔧 Built with: `AdonisJS`, `React`, `Postgres`
+🔧 Built with: <code>AdonisJS</code>, <code>React</code>, <code>Postgres</code>
+
+</div>
 
 ---
 
