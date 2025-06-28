@@ -22,14 +22,13 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,java,cpp,c" />
 </p>
 
-
-### ⚙️ Frameworks & Libraries
+<h2 align="center">⚙️ Frameworks & Libraries</h2>
 <p align="center">
-  <h2 align="center">⚙️ Frameworks & Libraries</h2>
   <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,angular,qt,adonisjs" />
 </p>
 
-### 🧰 Tools
+
+<h2 align="center">🧰 Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,docker,postman,figma,github,notion" />
 </p>
