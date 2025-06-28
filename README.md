@@ -30,7 +30,8 @@
 
 <h2 align="center">🔧 Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=intellij,git,docker,postman,figma,github,notion" />
+  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" />
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,figma,github,notion" />
 </p>
 
 ---
