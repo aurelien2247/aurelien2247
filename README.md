@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/2/26/IMT_Atlantique_%28logo%29.svg" alt="IMT Atlantique Logo" height="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/IMT_Atlantique_logo.png" alt="IMT Atlantique Logo" height="60" />
 </p>
 
 <p align="center">
