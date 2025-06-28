@@ -3,13 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://lycee-ledantec.fr/wp-content/uploads/2017/04/logo_blanc_felix_ledantec.png" alt="Felix Le Dantec Logo" height="60" />
-</p>
-<p align="center">
-  <img src="https://www.lycee-joliot-curie-rennes.fr//themes/custom/joliotcurie/logo.png" alt="Joliot Curie Logo" height="60" />
-</p>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/IMT_Atlantique_logo.png" alt="IMT Atlantique Logo" height="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/IMT_Atlantique_logo.png" alt="IMT Atlantique Logo" height="80" /> Softaware Engineer
 </p>
 
 <p align="center">
