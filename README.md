@@ -17,8 +17,9 @@
 
 ---
 
-<h2 align="center">💻 Languages</h2>
+
 <p align="center">
+  <h2>💻 Languages</h2>
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,java,cpp,c" />
 </p>
 
