@@ -30,7 +30,7 @@
 
 <h2 align="center">🔧 Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=intelij,git,docker,postman,figma,github,notion" />
+  <img src="https://skillicons.dev/icons?i=intellij,git,docker,postman,figma,github,notion" />
 </p>
 
 ---
