@@ -24,8 +24,7 @@
 
 <h2 align="center">⚙️ Frameworks & Libraries</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,angular,qt,spring,adonis" />
-  <img src="https://c0.klipartz.com/pngpicture/194/707/gratis-png-unidad-de-pruebas-de-software-de-automatizacion-de-pruebas-de-junit.png" alt="JUnit" width="40" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,angular,qt,spring,adonis" /> width="40" />
 </p>
 
 
