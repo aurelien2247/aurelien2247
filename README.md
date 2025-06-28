@@ -38,7 +38,7 @@
 
 ## 📂 Featured Project
 
-### 🔗 [IMTVENTAIRE](#IMTVENTAIRE)
+### 🔗 [IMTVENTAIRE](https://github.com/aurelien2247/IMTVENTAIRE)
 A full-stack team project to help IMT technicians scan and manage inventory via barcode.  
 🔧 Built with: `AdonisJS`, `React`, `Postgres`
 
