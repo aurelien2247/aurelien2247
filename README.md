@@ -24,7 +24,7 @@
 
 <h2 align="center">⚙️ Frameworks & Libraries</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,angular,qt,spring,adonis" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,angular,qt,spring,adonis,junit" />
 </p>
 
 
