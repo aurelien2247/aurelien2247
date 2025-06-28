@@ -28,7 +28,7 @@
 </p>
 
 
-<h2 align="center">🧰 Tools</h2>
+<h2 align="center">🔧 Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,docker,postman,figma,github,notion" />
 </p>
