@@ -1,60 +1,58 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=40&duration=2500&pause=1000&center=true&vCenter=true&width=600&height=70&lines=+👋+Hi+!+I'm+Aurélien+Moignet;I'm+a+passionate+developer+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Salut+!+Moi+c'est+Aurélien;Développeur+passionné+💻;Bienvenue+sur+mon+GitHub+!+🚀" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/fr/2/26/IMT_Atlantique_%28logo%29.svg" alt="IMT Atlantique Logo" height="60" />
+</p>
 
-- 🎓 Currently a Software Engineering student at **IMT Atlantique**
-- 🔭 Working on: a **RAG system** to support **COBOL development**
-- 💼 Apprenticeship at: **Direction Générale des Finances Publiques (DGFIP)**
-- 📫 Reach me at: [aurelien.moignet@imt-atlantique.net](mailto:aurelien.moignet@imt-atlantique.net)
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=flat&logo=adonisjs&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+<p align="center">
+  <img src="https://flagcdn.com/fr.svg" height="16"/> French Developer based in 🇫🇷 Brittany, France
+</p>
 
 ---
 
-## 📂 Recent Projects
+## 👨‍💻 Who Am I?
 
-- 🔗 [IMTVENTAIRE](#) – Team project to develop a web app allowing IMT technicians to manage inventories by scanning barcodes. Built using **AdonisJS**, **React**, and **SQLite**.
+- 🎓 Software Engineering Student at [**IMT Atlantique**](https://www.imt-atlantique.fr)
+- 🧠 Currently working on a **RAG system** to assist **COBOL developers**
+- 💼 Apprentice @ **Direction Générale des Finances Publiques (DGFIP)**
+- 📬 Contact me: [aurelien.moignet@imt-atlantique.net](mailto:aurelien.moignet@imt-atlantique.net)
 
-<!-- Remplace le lien # par l’URL GitHub ou démo si tu en as -->
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,java,cpp,c" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,angular,qt,adonisjs" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,docker,postman,figma,github,notion" />
+</p>
+
+---
+
+## 📂 Featured Project
+
+🔗 **[IMTVENTAIRE](#)**  
+🧾 A full-stack team project for IMT’s technical teams, allowing barcode scanning and inventory management.  
+🛠️ Built with: `AdonisJS`, `React`, `Postgres`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aurelienmoignet&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurelienmoignet&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aurelien2247&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurelien2247&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
+
