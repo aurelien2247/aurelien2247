@@ -41,12 +41,4 @@
 A full-stack team project to help IMT technicians scan and manage inventory via barcode.  
 🔧 Built with: `AdonisJS`, `React`, `Postgres`
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aurelien2247&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurelien2247&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
