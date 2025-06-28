@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=32&duration=2500&pause=1000&center=true&vCenter=true&width=600&height=60&lines=👋+Hi+!+I'm+Aurélien+Moignet;I'+m+passionate+on+Software+💻" alt="Typing SVG" />
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/IMT_Atlantique_logo.png" alt="IMT Atlantique Logo" height="160" /> Software Engineering Student @ IMT Atlantique
-</div>
+</p>
 
 <p align="center">
   <img src="https://flagcdn.com/fr.svg" height="16"/> French Developer based in 🇫🇷 Brittany, France
