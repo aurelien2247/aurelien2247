@@ -3,8 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/IMT_Atlantique_logo.png" alt="IMT Atlantique Logo" height="60" />
-  <h4 style="margin-top: 0;">Software Engineering Student @ IMT Atlantique</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/IMT_Atlantique_logo.png" alt="IMT Atlantique Logo" height="60" /> Software Engineering Student @ IMT Atlantique
 </div>
 
 <p align="center">
