@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/IMT_Atlantique_logo.png" alt="IMT Atlantique Logo" height="30" /> Software Engineering Student @ IMT Atlantique
-</p>
-
-<p align="center">
   <img src="https://flagcdn.com/fr.svg" height="16"/> French Developer based in 🇫🇷 Brittany, France
 </p>
 
