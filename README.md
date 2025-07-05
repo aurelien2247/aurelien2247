@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://flagcdn.com/fr.svg" height="16"/> French Developer based in 🇫🇷 Brittany, France
+  <img src="https://flagcdn.com/fr.svg" height="10"/> French Developer based in 🇫🇷 Brittany, France
 </p>
 
 ---
